@@ -8,7 +8,7 @@ import 'package:tiktok_clone/authentication/registration_screen.dart';
 import 'package:tiktok_clone/widgets_components/input_text_widget.dart';
 
 import 'authentication_controller.dart';
-
+//login screen
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
 
